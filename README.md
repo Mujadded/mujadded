@@ -1,32 +1,46 @@
 <h1 align="center">Hi 👋, I'm Mujadded Al Rabbani Alif</h1>
-<h3 align="center">A self-motivated individual and strive to stay up-to-date with the latest trends in software engineering and Artificial Intelligence.</h3>
+I'm a passionate software engineer with over 6 years of professional experience in Ruby on Rails development. I have a strong background in building scalable and maintainable web applications. Currently, I am pursuing my Master's degree in Artificial Intelligence at Huddersfield Univeristy in the UK, with a focus on Computer Vision and Convolutional Neural Networks (CNN).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujadded&label=Profile%20views&color=0e75b6&style=flat" alt="mujadded" /> </p>
 <p align="center">
     <img src="https://www.lambdatest.com/resources/images/news24.gif" alt=".." width="700" height="350" style="object-fit:cover">
 </p>
 
+## 🎓 Education
+- **Master's in Artificial Intelligence** - Huddersfield University, UK _(2022 - Present)_
+- **Bachelor's in Computer Science** - BRAC University _(2013 - 2017)_
+
+## 💼 Work Experience
+- **Principle Software Engineer** - Welltravel _(2021 - Present)_
+  - Developed and maintained Ruby on Rails applications from inception to deployment
+  - Led a team of developers, providing mentorship, and ensuring timely delivery of projects
+  - Collaborated closely with product owners, designers, and other engineers to build high-quality products
+
+- **Software Engineer** - [Welltravel] _(2017 - 2020)_
+  - Worked on various Ruby on Rails projects, contributing to both frontend and backend
+  - Participated in code reviews, ensuring adherence to best practices and coding standards
+
+## 🧠 Skills
+- **Languages**: Ruby, Python, JavaScript, HTML, CSS
+- **Frameworks**: Ruby on Rails, TensorFlow, Keras, PyTorch
+- **Tools**: Git, Docker, AWS, Heroku, PostgreSQL, MySQL
+
+## 🏆 Accomplishments
+- **Published Research Paper**: _"Isolated Bangla handwritten character recognition with convolutional neural network"_ - Focused on the application of CNNs in computer vision, with over 60 citations
+  - [IEEE Link](https://ieeexplore.ieee.org/document/8281823)
+
+## 🎯 Career Goals
+With my background in software engineering and my growing expertise in artificial intelligence, my goal is to establish a career in the UK, focusing on computer vision and CNN. I am excited to apply my skills and knowledge to contribute meaningfully to the field of AI and develop innovative solutions to real-world problems.
+
+## 📫 Get in Touch
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mujadded) or [Twitter](https://twitter.com/mujadded). I'm always open to discussing new opportunities, collaborating on projects, or just chatting about AI and technology!
+
+
 ## 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujadded" alt="mujadded" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mujadded" target="blank"><img src="https://img.shields.io/twitter/follow/mujadded?logo=twitter&style=for-the-badge" alt="mujadded" /></a> </p>
-
-# 💫 About Me:
-
-- 🔭 I’m currently working on **Research in AI with pytorch**
-
-- 🌱 I’m currently learning **Pytorch, DeepLearning, Computer Vison**
-
-- 👯 I’m looking to collaborate on **AI projects in Keras / Pytorch**
-
-- 📝 I regularly write articles on [https://medium.com/@Mujadded](https://medium.com/@Mujadded)
-
-- 💬 Ask me about **Ruby, React, ROR, Python, Keras, Pytorch, DeepLearning, Machine Learning**
-
-- 📫 How to reach me **mujadded.alif@gmail.com**
-
-- 📄 Know about my experiences [Link Later](Link Later)
 
 # 🌐 Connect with me
 
