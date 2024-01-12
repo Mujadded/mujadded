@@ -71,10 +71,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mujadded)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujadded&" alt="mujadded" /></p>
 
-# 📊 GitHub Stats (Work):
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mal-wtag&" alt="mujadded" /></p>
-
-
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/mujadded)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
