@@ -1,9 +1,6 @@
 # About Me
 ## 👋 Hi, I'm Mujadded Al Rabbani Alif
-Sophisticated Machine Learning Engineer with background in independent research using intuitive, web-based architecture. Skilled in Computer Vision with documented history of discovering methods to intelligently use data to enhance user experience. Effectively researches techniques for novel approaches to problems, develops prototypes to assess viability of approach and deploys
-
-application into production yielding insights to expand customer-
-consciousness.
+Sophisticated Machine Learning Engineer with background in independent research using intuitive, web-based architecture. Skilled in Computer Vision with documented history of discovering methods to intelligently use data to enhance user experience. Effectively researches techniques for novel approaches to problems, develops prototypes to assess viability of approach and deploys application into production yielding insights to expand customer-consciousness.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujadded&label=Profile%20views&color=0e75b6&style=flat" alt="mujadded" /> </p>
 <p align="center">
