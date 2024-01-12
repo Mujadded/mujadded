@@ -1,6 +1,9 @@
 # About Me
 ## 👋 Hi, I'm Mujadded Al Rabbani Alif
-I'm a passionate software engineer with over 6 years of professional experience in Ruby on Rails development. I have a strong background in building scalable and maintainable web applications. Currently, I am pursuing my Master's degree in Artificial Intelligence at Huddersfield Univeristy in the UK, with a focus on Computer Vision and Convolutional Neural Networks (CNN).
+Sophisticated Machine Learning Engineer with background in independent research using intuitive, web-based architecture. Skilled in Computer Vision with documented history of discovering methods to intelligently use data to enhance user experience. Effectively researches techniques for novel approaches to problems, develops prototypes to assess viability of approach and deploys
+
+application into production yielding insights to expand customer-
+consciousness.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujadded&label=Profile%20views&color=0e75b6&style=flat" alt="mujadded" /> </p>
 <p align="center">
