@@ -8,11 +8,18 @@ I'm a passionate software engineer with over 6 years of professional experience 
 </p>
 
 ## 🎓 Education
-- **Master's in Artificial Intelligence** - Huddersfield University, UK _(2022 - Present)_
+- **Master's in Artificial Intelligence** - Huddersfield University, UK _(2022 - 2023)_
 - **Bachelor's in Computer Science** - BRAC University _(2013 - 2017)_
 
 ## 💼 Work Experience
-- **Principle Software Engineer** - Welltravel _(2021 - Present)_
+- **Computer Vision Research Engineer** - University Of Huddersfield _(2023 - Present)_
+  - Developed and implemented deep learning model for object recognition and tracking for bolts in rail engines, resulting in 13% increase (80% to 93%) in accuracy compared to previous models.
+  - Developed and maintained software for image analysis and detection of pallet racking, resulting in 5% increase in efficiency (from 92% to 97%) for image-based tasks
+  - Presented talks on specific projects, problems currently under consideration, importance of projects and breakdowns of outcomes versus objectives.
+  - Collaborated seamlessly with colleagues and cross-functional teams to systematically address and resolve complex challenges.
+  - Transformed raw data to conform to assumptions of machine learning algorithm.
+    
+- **Principle Software Engineer** - Welltravel _(2021 - 2023)_
   - Developed and maintained Ruby on Rails applications from inception to deployment
   - Led a team of developers, providing mentorship, and ensuring timely delivery of projects
   - Collaborated closely with product owners, designers, and other engineers to build high-quality products
