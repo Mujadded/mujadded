@@ -1,6 +1,6 @@
 # About Me
 ## 👋 Hi, I'm Mujadded Al Rabbani Alif
-Sophisticated Machine Learning Engineer with background in independent research using intuitive, web-based architecture. Skilled in Computer Vision with documented history of discovering methods to intelligently use data to enhance user experience. Effectively researches techniques for novel approaches to problems, develops prototypes to assess viability of approach and deploys application into production yielding insights to expand customer-consciousness.
+As a dedicated Computer Vision Engineer with over six years of software engineering experience, I bring a profound expertise in developing innovative solutions for complex challenges in the computer vision field. My journey has equipped me with a solid foundation in machine learning, deep learning frameworks like PyTorch and TensorFlow, and a specialisation in computer vision libraries such as OpenCV. My software engineering background, with extensive experience in Ruby on Rails and PostgreSQL, complements my ability to design, optimise, and implement scalable web applications and data-driven solutions. I am passionate about driving technological advancements that solve real-world problems. My commitment to the field is also evidenced by my contributions to peer-reviewed journals, highlighting my research on automated damage detection and missing bolt classification. Eager to apply my comprehensive skills in a dynamic environment, I aim to contribute to cutting-edge computer vision projects in the UK, leveraging my blend of technical expertise, leadership abilities, and a proactive problem-solving approach.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujadded&label=Profile%20views&color=0e75b6&style=flat" alt="mujadded" /> </p>
 <p align="center">
@@ -8,21 +8,19 @@ Sophisticated Machine Learning Engineer with background in independent research 
 </p>
 
 ## 🎓 Education
-- **Master's in Artificial Intelligence** - Huddersfield University, UK _(2022 - 2023)_
-- **Bachelor's in Computer Science** - BRAC University _(2013 - 2017)_
+- **Master of Science in Artificial Intelligence** - University of Huddersfield, UK _(2022 - 2023)_
+  - Awarded Distinction for thesis on "Damaged Pallet Racking Classification Using Attention CNN", contributing to a 15% improvement in detection accuracy over existing methods.
+- **Bachelor of Science in Computer Engineering** - BRAC University, Bangladesh _(2013 - 2017)_
+  - Awarded Dean's List; Received Vice Chancellor Award for thesis project on "Handwritten Digit Recognition Using Convolutional Neural Networks", achieving a 98% accuracy rate.
 
 ## 💼 Work Experience
-- **Computer Vision Research Engineer** - University Of Huddersfield _(2023 - Present)_
-  - Developed and implemented deep learning model for object recognition and tracking for bolts in rail engines, resulting in 13% increase (80% to 93%) in accuracy compared to previous models.
-  - Developed and maintained software for image analysis and detection of pallet racking, resulting in 5% increase in efficiency (from 92% to 97%) for image-based tasks
-  - Presented talks on specific projects, problems currently under consideration, importance of projects and breakdowns of outcomes versus objectives.
-  - Collaborated seamlessly with colleagues and cross-functional teams to systematically address and resolve complex challenges.
-  - Transformed raw data to conform to assumptions of machine learning algorithm.
-    
-- **Principle Software Engineer** - Welltravel _(2021 - 2023)_
-  - Developed and maintained Ruby on Rails applications from inception to deployment
-  - Led a team of developers, providing mentorship, and ensuring timely delivery of projects
-  - Collaborated closely with product owners, designers, and other engineers to build high-quality products
+- **Computer Vision Engineer** - University Of Huddersfield _(2023 - Present)_
+  - Spearheaded the development and implementation of a deep learning model for object recognition and tracking in rail engines, achieving a 13% improvement in accuracy, elevating model performance from 80% to 93%.
+  - Engineered and maintained advanced software for image analysis and detection of pallet racking, enhancing image-based task efficiency by 5%, resulting in a rise from 92% to 97% efficiency.
+- **Principal Software Engineer** - Welltravel, United Kingdom (Remote, Part-time) _(2022 - 2023)_
+  - Orchestrated the design and implementation of web applications built with Ruby on Rails, significantly improving application performance by 40% through optimization of Ruby on Rails codebase, PostgreSQL queries, and caching mechanisms, thereby reducing latency and increasing support for 3x more concurrent users.
+- **Chief Technology Officer** - Welltravel, Bangladesh _(2020 - 2022)_
+  - Directed a comprehensive technology roadmap, leading planning and execution across 3 teams with 20 members each to align technology initiatives with business goals, contributing to the strategic advancement of the company's software solutions.
 
 - **Software Engineer** - [Welltravel] _(2017 - 2020)_
   - Worked on various Ruby on Rails projects, contributing to both frontend and backend
@@ -34,8 +32,9 @@ Sophisticated Machine Learning Engineer with background in independent research 
 - **Tools**: Git, Docker, AWS, Heroku, PostgreSQL, MySQL
 
 ## 🏆 Accomplishments
-- **Published Research Paper**: _"Isolated Bangla handwritten character recognition with convolutional neural network"_ - Focused on the application of CNNs in computer vision, with over 60 citations
-  - [IEEE Link](https://ieeexplore.ieee.org/document/8281823)
+- **Published Research Paper**:
+    - _"Isolated Bangla handwritten character recognition with convolutional neural network"_ - DemonstratesmyexpertiseinleveragingCNNsforrecognising handwritten Bangla characters, contributing significantly to automated document processing and linguistic studies. [IEEE Link](https://ieeexplore.ieee.org/document/8281823)
+    - **Boltvision: A Comparative Analysis of CNN, CCT, and ViT in Achieving High Accuracy for Missing Bolt Classification in Train Components"_ - Thispublicationpresentsagroundbreakingcomparativestudyhighlighting my development of a model that accurately identifies missing bolts in train components, a critical aspect of railway safety. [MDPI Link](https://www.mdpi.com/2075-1702/12/2/93)
 
 ## 🎯 Career Goals
 With my background in software engineering and my growing expertise in artificial intelligence, my goal is to establish a career in the UK, focusing on computer vision and CNN. I am excited to apply my skills and knowledge to contribute meaningfully to the field of AI and develop innovative solutions to real-world problems.
