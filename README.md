@@ -1,6 +1,6 @@
 # About Me
 ## 👋 Hi, I'm Mujadded Al Rabbani Alif
-As a dedicated Computer Vision Engineer with over six years of software engineering experience, I bring a profound expertise in developing innovative solutions for complex challenges in the computer vision field. My journey has equipped me with a solid foundation in machine learning, deep learning frameworks like PyTorch and TensorFlow, and a specialisation in computer vision libraries such as OpenCV. My software engineering background, with extensive experience in Ruby on Rails and PostgreSQL, complements my ability to design, optimise, and implement scalable web applications and data-driven solutions. I am passionate about driving technological advancements that solve real-world problems. My commitment to the field is also evidenced by my contributions to peer-reviewed journals, highlighting my research on automated damage detection and missing bolt classification. Eager to apply my comprehensive skills in a dynamic environment, I aim to contribute to cutting-edge computer vision projects in the UK, leveraging my blend of technical expertise, leadership abilities, and a proactive problem-solving approach.
+As a dedicated Computer Vision Engineer with over six years of software engineering experience, I bring profound expertise in developing innovative solutions for complex challenges in the computer vision field. My journey has equipped me with a solid foundation in machine learning, deep learning frameworks like PyTorch and TensorFlow, and a specialization in computer vision libraries such as OpenCV. My software engineering background, with extensive experience in Ruby on Rails and PostgreSQL, complements my ability to design, optimize, and implement scalable web applications and data-driven solutions. I am passionate about driving technological advancements that solve real-world problems. My commitment to the field is also evidenced by my contributions to peer-reviewed journals, highlighting my research on automated damage detection and missing bolt classification. Eager to apply my comprehensive skills in a dynamic environment, I aim to contribute to cutting-edge computer vision projects in the UK, leveraging my blend of technical expertise, leadership abilities, and a proactive problem-solving approach.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujadded&label=Profile%20views&color=0e75b6&style=flat" alt="mujadded" /> </p>
 <p align="center">
@@ -14,34 +14,46 @@ As a dedicated Computer Vision Engineer with over six years of software engineer
   - Awarded Dean's List; Received Vice Chancellor Award for thesis project on "Handwritten Digit Recognition Using Convolutional Neural Networks", achieving a 98% accuracy rate.
 
 ## 💼 Work Experience
-- **Computer Vision Engineer** - University Of Huddersfield _(2023 - Present)_
+- **Research Technician** - University Of Huddersfield _(2024 - Present)_
+  - Spearheading the development and integration of a customer support chatbot using the ChatGPT API, leveraging Large Language Models (LLMs) to enhance customer interaction and support efficiency.
+  - Implementing Retrieval-Augmented Generation (RAG) techniques to improve the chatbot’s ability to provide accurate and contextually relevant responses by integrating real-time data retrieval, resulting in a 25% increase in response accuracy.
+  - Collaborating closely with project engineers to gather and analyze a comprehensive list of frequently asked questions, ensuring the chatbot is well-equipped to handle 90% of customer inquiries.
+
+- **Computer Vision Engineer** - University Of Huddersfield _(2023 - 2024)_
   - Spearheaded the development and implementation of a deep learning model for object recognition and tracking in rail engines, achieving a 13% improvement in accuracy, elevating model performance from 80% to 93%.
   - Engineered and maintained advanced software for image analysis and detection of pallet racking, enhancing image-based task efficiency by 5%, resulting in a rise from 92% to 97% efficiency.
+
 - **Principal Software Engineer** - Welltravel, United Kingdom (Remote, Part-time) _(2022 - 2023)_
   - Orchestrated the design and implementation of web applications built with Ruby on Rails, significantly improving application performance by 40% through optimization of Ruby on Rails codebase, PostgreSQL queries, and caching mechanisms, thereby reducing latency and increasing support for 3x more concurrent users.
+
 - **Chief Technology Officer** - Welltravel, Bangladesh _(2020 - 2022)_
   - Directed a comprehensive technology roadmap, leading planning and execution across 3 teams with 20 members each to align technology initiatives with business goals, contributing to the strategic advancement of the company's software solutions.
+  - Spearheaded the digital transformation initiatives, significantly enhancing operational efficiencies and empowering the team with agile methodologies and problem-solving techniques.
 
-- **Software Engineer** - [Welltravel] _(2017 - 2020)_
-  - Worked on various Ruby on Rails projects, contributing to both frontend and backend
-  - Participated in code reviews, ensuring adherence to best practices and coding standards
+- **Senior Software Engineer** - Welltravel, Bangladesh _(2017 - 2020)_
+  - Successfully onboarded and mentored 15 new engineers, enhancing team capabilities in Ruby on Rails development and agile project management, thereby improving project delivery timelines by 25%.
+  - Led the resolution of critical technological issues, elevating customer satisfaction and establishing a culture of continuous improvement and proactive problem-solving.
 
 ## 🧠 Skills
-- **Languages**: Ruby, Python, JavaScript, HTML, CSS
+- **Languages**: Ruby, Python, PHP, JavaScript, Java
 - **Frameworks**: Ruby on Rails, TensorFlow, Keras, PyTorch
 - **Tools**: Git, Docker, AWS, Heroku, PostgreSQL, MySQL
+- **Frontend Framework**: React
+- **Data Manipulation and Visualization**: Pandas, Matplotlib
 
 ## 🏆 Accomplishments
-- **Published Research Paper**:
-    - _"Isolated Bangla handwritten character recognition with convolutional neural network"_ - DemonstratesmyexpertiseinleveragingCNNsforrecognising handwritten Bangla characters, contributing significantly to automated document processing and linguistic studies. [IEEE Link](https://ieeexplore.ieee.org/document/8281823)
-    - **Boltvision: A Comparative Analysis of CNN, CCT, and ViT in Achieving High Accuracy for Missing Bolt Classification in Train Components"_ - Thispublicationpresentsagroundbreakingcomparativestudyhighlighting my development of a model that accurately identifies missing bolts in train components, a critical aspect of railway safety. [MDPI Link](https://www.mdpi.com/2075-1702/12/2/93)
+- **Published Research Papers**:
+  - _"Isolated Bangla Handwritten Character Recognition with Convolutional Neural Network"_ - Demonstrates my expertise in leveraging CNNs for recognizing handwritten Bangla characters, contributing significantly to automated document processing and linguistic studies. [IEEE Link](https://ieeexplore.ieee.org/document/8281823)
+  - _"Boltvision: A Comparative Analysis of CNN, CCT, and ViT in Achieving High Accuracy for Missing Bolt Classification in Train Components"_ - This publication presents a groundbreaking comparative study highlighting my development of a model that accurately identifies missing bolts in train components, a critical aspect of railway safety. [MDPI Link](https://www.mdpi.com/2075-1702/12/2/93)
+  - _"State-of-the-art Bangla Handwritten Character Recognition Using a Modified ResNet-34 Architecture"_ - In this work, I enhanced a ResNet-34 architecture to set a new standard for Bangla handwritten character recognition, showcasing my ability to improve upon existing deep-learning models for specific linguistic applications.
+  - _"Attention-Based Automated Pallet Racking Damage Detection"_ - This article introduces an attention-based mechanism for detecting damages in pallet racking systems, illustrating my innovative approach to ensuring warehouse safety through advanced image analysis techniques.
+  - _"YOLOV1 to YOLOV10: A Comprehensive Review of YOLO Variants and Their Application in the Agricultural Domain"_ - Provides an in-depth review of various YOLO models, their evolution, and their applications in agriculture.
 
 ## 🎯 Career Goals
 With my background in software engineering and my growing expertise in artificial intelligence, my goal is to establish a career in the UK, focusing on computer vision and CNN. I am excited to apply my skills and knowledge to contribute meaningfully to the field of AI and develop innovative solutions to real-world problems.
 
 ## 📫 Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mujadded) or [Twitter](https://twitter.com/mujadded). I'm always open to discussing new opportunities, collaborating on projects, or just chatting about AI and technology!
-
 
 ## 🏆 GitHub Trophies
 
