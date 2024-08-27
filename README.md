@@ -15,31 +15,31 @@ As a dedicated Computer Vision Engineer with over six years of software engineer
 
 ## 💼 Work Experience
 - **Research Technician** - University Of Huddersfield _(2024 - Present)_
-  - Spearheading the development and integration of a customer support chatbot using the ChatGPT API, leveraging Large Language Models (LLMs) to enhance customer interaction and support efficiency.
-  - Implementing Retrieval-Augmented Generation (RAG) techniques to improve the chatbot’s ability to provide accurate and contextually relevant responses by integrating real-time data retrieval, resulting in a 25% increase in response accuracy.
-  - Collaborating closely with project engineers to gather and analyze a comprehensive list of frequently asked questions, ensuring the chatbot is well-equipped to handle 90% of customer inquiries.
+  - Leading the development and integration of a customer support chatbot utilizing the ChatGPT API, enhancing customer interaction and support efficiency.
+  - Implementing Retrieval-Augmented Generation (RAG) techniques to improve the chatbot's accuracy and contextual relevance, resulting in a 25% increase in response accuracy.
+  - Collaborating with project engineers to analyze and compile a comprehensive list of frequently asked questions, ensuring the chatbot handles 90% of customer inquiries effectively.
 
-- **Computer Vision Engineer** - University Of Huddersfield _(2023 - 2024)_
-  - Spearheaded the development and implementation of a deep learning model for object recognition and tracking in rail engines, achieving a 13% improvement in accuracy, elevating model performance from 80% to 93%.
-  - Engineered and maintained advanced software for image analysis and detection of pallet racking, enhancing image-based task efficiency by 5%, resulting in a rise from 92% to 97% efficiency.
+- **Machine Learning Engineer** - University Of Huddersfield _(2023 - 2024)_
+  - Developed and implemented a deep learning model for object recognition and tracking in rail engines, achieving a 13% improvement in accuracy, elevating model performance from 80% to 93%.
+  - Maintained and enhanced software for image analysis and detection of pallet racking, improving image-based task efficiency by 5%, resulting in a rise from 92% to 97% efficiency.
 
 - **Principal Software Engineer** - Welltravel, United Kingdom (Remote, Part-time) _(2022 - 2023)_
-  - Orchestrated the design and implementation of web applications built with Ruby on Rails, significantly improving application performance by 40% through optimization of Ruby on Rails codebase, PostgreSQL queries, and caching mechanisms, thereby reducing latency and increasing support for 3x more concurrent users.
+  - Led the design and implementation of web applications using Ruby on Rails, significantly improving application performance by 40% through optimization of codebase, PostgreSQL queries, and caching mechanisms, thus supporting 3x more concurrent users.
 
 - **Chief Technology Officer** - Welltravel, Bangladesh _(2020 - 2022)_
-  - Directed a comprehensive technology roadmap, leading planning and execution across 3 teams with 20 members each to align technology initiatives with business goals, contributing to the strategic advancement of the company's software solutions.
-  - Spearheaded the digital transformation initiatives, significantly enhancing operational efficiencies and empowering the team with agile methodologies and problem-solving techniques.
+  - Directed a comprehensive technology roadmap, leading planning and execution across multiple teams to align technology initiatives with business goals, advancing the company's software solutions.
+  - Spearheaded digital transformation initiatives, enhancing operational efficiencies and empowering teams with agile methodologies.
 
 - **Senior Software Engineer** - Welltravel, Bangladesh _(2017 - 2020)_
-  - Successfully onboarded and mentored 15 new engineers, enhancing team capabilities in Ruby on Rails development and agile project management, thereby improving project delivery timelines by 25%.
-  - Led the resolution of critical technological issues, elevating customer satisfaction and establishing a culture of continuous improvement and proactive problem-solving.
+  - Mentored 15 new engineers in Ruby on Rails development and agile project management, improving project delivery timelines by 25%.
+  - Led the resolution of critical technological issues, elevating customer satisfaction and fostering a culture of continuous improvement.
 
 ## 🧠 Skills
 - **Languages**: Ruby, Python, PHP, JavaScript, Java
 - **Frameworks**: Ruby on Rails, TensorFlow, Keras, PyTorch
 - **Tools**: Git, Docker, AWS, Heroku, PostgreSQL, MySQL
-- **Frontend Framework**: React
-- **Data Manipulation and Visualization**: Pandas, Matplotlib
+- **Frontend**: React
+- **Data Manipulation & Visualization**: Pandas, Matplotlib
 
 ## 🏆 Accomplishments
 - **Published Research Papers**:
