@@ -1,6 +1,8 @@
 # About Me
 ## 👋 Hi, I'm Mujadded Al Rabbani Alif
-As a dedicated Computer Vision Engineer with over six years of software engineering experience, I bring profound expertise in developing innovative solutions for complex challenges in the computer vision field. My journey has equipped me with a solid foundation in machine learning, deep learning frameworks like PyTorch and TensorFlow, and a specialization in computer vision libraries such as OpenCV. My software engineering background, with extensive experience in Ruby on Rails and PostgreSQL, complements my ability to design, optimize, and implement scalable web applications and data-driven solutions. I am passionate about driving technological advancements that solve real-world problems. My commitment to the field is also evidenced by my contributions to peer-reviewed journals, highlighting my research on automated damage detection and missing bolt classification. Eager to apply my comprehensive skills in a dynamic environment, I aim to contribute to cutting-edge computer vision projects in the UK, leveraging my blend of technical expertise, leadership abilities, and a proactive problem-solving approach.
+As an expert in Computer Vision and Large Language Models (LLMs), I bring over six years of experience in software engineering, specializing in developing advanced AI-driven solutions. My technical prowess spans deep learning frameworks like PyTorch and TensorFlow, coupled with hands-on experience in computer vision tools such as OpenCV. In parallel, my extensive background in software development using Ruby on Rails and PostgreSQL enables me to design scalable, efficient, and data-driven applications.
+
+I have successfully led research projects focused on image recognition, object detection, and retrieval-augmented generation (RAG) techniques, improving AI systems' accuracy and relevance. My work has been featured in peer-reviewed journals, showcasing innovations in automated damage detection and AI model optimization. By leveraging my cross-disciplinary expertise in AI and software development, I am committed to driving impactful technological advancements and delivering solutions that bridge the gap between research and practical applications.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujadded&label=Profile%20views&color=0e75b6&style=flat" alt="mujadded" /> </p>
 <p align="center">
@@ -14,10 +16,15 @@ As a dedicated Computer Vision Engineer with over six years of software engineer
   - Awarded Dean's List; Received Vice Chancellor Award for thesis project on "Handwritten Digit Recognition Using Convolutional Neural Networks", achieving a 98% accuracy rate.
 
 ## 💼 Work Experience
-- **Research Technician** - University Of Huddersfield _(2024 - Present)_
-  - Leading the development and integration of a customer support chatbot utilizing the ChatGPT API, enhancing customer interaction and support efficiency.
-  - Implementing Retrieval-Augmented Generation (RAG) techniques to improve the chatbot's accuracy and contextual relevance, resulting in a 25% increase in response accuracy.
-  - Collaborating with project engineers to analyze and compile a comprehensive list of frequently asked questions, ensuring the chatbot handles 90% of customer inquiries effectively.
+- **Research Assistant in Computer Vision** - University Of Huddersfield _(2024 - Present)_
+  - Leading research in advanced computer vision techniques, focusing on object detection, recognition, and deep learning methodologies.
+  - Developing novel algorithms to enhance image analysis and tracking systems used in industrial applications, improving accuracy and efficiency.
+  - Collaborating with interdisciplinary teams to integrate AI models into real-world scenarios and publishing findings in academic journals.
+
+- **Research Technician** - University Of Huddersfield _(2024 - 2024)_
+  - Led the development of a sophisticated multi-agent chatbot system utilizing LangChain, LangGraph, and the OpenAI API, optimizing customer interaction.
+  - Implemented Retrieval-Augmented Generation (RAG) techniques, increasing chatbot response accuracy by 25%.
+  - Worked with project engineers to compile FAQs, ensuring the chatbot handles 90% of customer inquiries effectively.
 
 - **Machine Learning Engineer** - University Of Huddersfield _(2023 - 2024)_
   - Developed and implemented a deep learning model for object recognition and tracking in rail engines, achieving a 13% improvement in accuracy, elevating model performance from 80% to 93%.
