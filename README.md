@@ -10,9 +10,9 @@ I have successfully led research projects focused on image recognition, object d
 </p>
 
 ## 🎓 Education
-- **Master of Science in Artificial Intelligence** - University of Huddersfield, UK _(2022 - 2023)_
+- **Master of Science in Artificial Intelligence** - University of Huddersfield, UK
   - Awarded Distinction for thesis on "Damaged Pallet Racking Classification Using Attention CNN", contributing to a 15% improvement in detection accuracy over existing methods.
-- **Bachelor of Science in Computer Engineering** - BRAC University, Bangladesh _(2013 - 2017)_
+- **Bachelor of Science in Computer Engineering** - BRAC University, Bangladesh
   - Awarded Dean's List; Received Vice Chancellor Award for thesis project on "Handwritten Digit Recognition Using Convolutional Neural Networks", achieving a 98% accuracy rate.
 
 ## 💼 Work Experience
