@@ -1,5 +1,5 @@
 # About Me
-## 👋 Hi, I'm Mujadded Al Rabbani Alif
+## 👋 Hi, I'm MJ Alif
 As an expert in Computer Vision and Large Language Models (LLMs), I bring over six years of experience in software engineering, specializing in developing advanced AI-driven solutions. My technical prowess spans deep learning frameworks like PyTorch and TensorFlow, coupled with hands-on experience in computer vision tools such as OpenCV. In parallel, my extensive background in software development using Ruby on Rails and PostgreSQL enables me to design scalable, efficient, and data-driven applications.
 
 I have successfully led research projects focused on image recognition, object detection, and retrieval-augmented generation (RAG) techniques, improving AI systems' accuracy and relevance. My work has been featured in peer-reviewed journals, showcasing innovations in automated damage detection and AI model optimization. By leveraging my cross-disciplinary expertise in AI and software development, I am committed to driving impactful technological advancements and delivering solutions that bridge the gap between research and practical applications.
