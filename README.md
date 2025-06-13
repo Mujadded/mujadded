@@ -21,7 +21,7 @@ I have successfully led research projects focused on image recognition, object d
   - Developing novel algorithms to enhance image analysis and tracking systems used in industrial applications, improving accuracy and efficiency.
   - Collaborating with interdisciplinary teams to integrate AI models into real-world scenarios and publishing findings in academic journals.
 
-- **Research Technician** - University Of Huddersfield _(2024 - 2024)_
+- **AI Engineer - LLM** - University Of Huddersfield _(2024 - 2024)_
   - Led the development of a sophisticated multi-agent chatbot system utilizing LangChain, LangGraph, and the OpenAI API, optimizing customer interaction.
   - Implemented Retrieval-Augmented Generation (RAG) techniques, increasing chatbot response accuracy by 25%.
   - Worked with project engineers to compile FAQs, ensuring the chatbot handles 90% of customer inquiries effectively.
@@ -33,7 +33,7 @@ I have successfully led research projects focused on image recognition, object d
 - **Principal Software Engineer** - Welltravel, United Kingdom (Remote, Part-time) _(2022 - 2023)_
   - Led the design and implementation of web applications using Ruby on Rails, significantly improving application performance by 40% through optimization of codebase, PostgreSQL queries, and caching mechanisms, thus supporting 3x more concurrent users.
 
-- **Chief Technology Officer** - Welltravel, Bangladesh _(2020 - 2022)_
+- **Techical Lead / Acting CTO** - Welltravel, Bangladesh _(2020 - 2022)_
   - Directed a comprehensive technology roadmap, leading planning and execution across multiple teams to align technology initiatives with business goals, advancing the company's software solutions.
   - Spearheaded digital transformation initiatives, enhancing operational efficiencies and empowering teams with agile methodologies.
 
